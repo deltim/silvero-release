@@ -1,11 +1,12 @@
-# Welcome on Silvero 
+# ![Logo](https://github.com/deltim/silvero/blob/main/logo.png?raw=true)
 
-[![linktree](https://img.shields.io/badge/linktree-10cf04?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/deltim)
+[![linktree](https://img.shields.io/badge/say_hello-on_linktree-10cf04?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/deltim)
+
 ## Informations
 Silvero Suit is an app created for help Windows' users, and configure new computer, like install the basic apps or execute regedit scripts
 
 ## Lisences
-[![mit-lisence](https://img.shields.io/badge/Lisence-MIT-blue?style=for-the-badge&logo=github&logoColor=white)](https://opensource.org/licenses/MIT)
+[![mit-lisence](https://img.shields.io/badge/Lisence-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT) [![mit-lisence](https://img.shields.io/badge/Version-1.1-green?style=for-the-badge)]()
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
