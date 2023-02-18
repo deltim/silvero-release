@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/deltim/silvero/blob/main/logo.png?raw=true)
 
-[![incode website](https://img.shields.io/badge/InCode-Website-cyan?style=for-the-badge&logo=linktree&logoColor=white)](https://incode.glide.page)
+[![incode website](https://img.shields.io/badge/InCode-Website-cyan?style=for-the-badge&logo=incode&logoColor=white)](https://incode.glide.page)
 
 ## Informations
 Silvero Suit is an app created for help Windows' users, and configure new computer, like install the basic apps or execute regedit scripts
